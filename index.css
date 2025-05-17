@@ -1,0 +1,30 @@
+/* Body Styles */
+body {
+    background-image: url("photo.jpg");
+    background-size: cover;
+    font-family:  'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color:white;
+  }
+  
+  h1{
+    color:goldenrod;
+  }
+
+  #message-el{
+    font-style:italic;
+  }
+
+  button{
+    color :#065123;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+  }
